@@ -6,3 +6,4 @@
  * and open the template in the editor.
  */
 echo "testing git envoirnment";
+echo "we are getting some thing new ";
